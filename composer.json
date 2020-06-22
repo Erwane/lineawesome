@@ -11,7 +11,7 @@
         "line-awesome",
         "font-awesome"
     ],
-    "licence": "MIT",
+    "license": "MIT",
     "extra": {
         "component": {
             "styles": [
